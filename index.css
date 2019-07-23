@@ -14,10 +14,8 @@ body {
 }
 
 .bigItem {
-  grid-row: 2 / 4;
-  grid-column: 2 / 4;
+  grid-area: 2 / 2 / 4 / 4;
 }
-
 .grid-item {
   background-color: grey;
   border: 1px solid black;
